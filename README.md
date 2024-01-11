@@ -49,11 +49,14 @@
      INTEGRATED DEVELOPMENT ENVIRONMENT: VISUAL STUDIO.
      TOOLS : GOOGLE COLAB,sTREAMLIT
           
-𝐒𝐮𝐢𝐜𝐢𝐝𝐚𝐥 𝐓𝐞𝐱𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧:
+𝐍𝐨𝐧-𝐒𝐮𝐢𝐜𝐢𝐝𝐚𝐥 𝐓𝐞𝐱𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧:
      ![Screenshot (135)](https://github.com/deepthi16032002/Suicidal-Ideation-Detection-Using-Deep-Learning/assets/134869226/6afa2bb9-b954-45a6-bcf1-69f6d374a54e)
 
                             
 
-                                
-         
+𝐒𝐮𝐢𝐜𝐢𝐝𝐚𝐥 𝐓𝐞𝐱𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧:
+
+         ![Screenshot (136)](https://github.com/deepthi16032002/Suicidal-Ideation-Detection-Using-Deep-Learning/assets/134869226/806a8bb8-5f23-4387-9efe-a3e19e2a2a01)
+
       
+![Screenshot (136)](https://github.com/deepthi16032002/Suicidal-Ideation-Detection-Using-Deep-Learning/assets/134869226/20040151-9ede-4ae5-bc94-1a5961516109)
