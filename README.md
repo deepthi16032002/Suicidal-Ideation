@@ -20,6 +20,14 @@
       Deployed our Trained Models using streamlit.
       
 𝐒𝐘𝐒𝐓𝐄𝐌 𝐀𝐑𝐂𝐇𝐈𝐓𝐄𝐂𝐓𝐔𝐑𝐄:
+
+
+
+
+
+
+
+
                        ![system Architecture](https://github.com/deepthi16032002/Suicidal-Ideation-Detection-Using-Deep-Learning/assets/134869226/358ffc20-0519-4091-a4c4-2d141677907a)
 
                 
