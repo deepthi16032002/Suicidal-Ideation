@@ -28,8 +28,31 @@
 
 ![system Architecture](https://github.com/deepthi16032002/Suicidal-Ideation-Detection-Using-Deep-Learning/assets/134869226/b059ba5c-ed6f-4a17-a144-0969618dff82)
 
+𝐄𝐗𝐈𝐒𝐓𝐈𝐍𝐆 𝐒𝐘𝐒𝐓𝐄𝐌:
+     In the Existing system various machine learning algorithms and ensemble approaches like Decision trees, 
+     Naive Bayes, Multinomial Naive Bayes, Support vector machine (SMO), Regression, Bagging, Random 
+     Forest, AdaBoost, voting and Stacking are implemented for classifying the suicide-related tweets into two 
+     groups using the real tweets.
+     After studying the literature, it was found that dataset used in the research was very low as data is not freely 
+     available due to its ethical considerations and the studies which were already done in this area of research 
+     have not achieved much accuracy and recall
 
+𝐏𝐑𝐎𝐏𝐎𝐒𝐄𝐃 𝐒𝐘𝐒𝐓𝐄𝐌:
+     This project aims to develop a system that can detect suicidal ideation on Twitter using Natural Language 
+     Processing (NLP) and Deep learning models include Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU),
+     Convolutional Neural Networks(CNN).We have used the Twitter Suicide Dataset, which 
+     contains Tweets from individuals who have experienced suicidal thoughts and ideations. The dataset includes 
+     more than 1787 Tweets and comments, and it has been labeled as either indicating suicidal ideation or not.
+
+𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄 𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐌𝐄𝐍𝐓𝐒:
+     OPERATING SYSTEM : WINDOWS 7 AND ABOVE
+     INTEGRATED DEVELOPMENT ENVIRONMENT: VISUAL STUDIO.
+     TOOLS : GOOGLE COLAB,sTREAMLIT
           
-          
+𝐒𝐮𝐢𝐜𝐢𝐝𝐚𝐥 𝐓𝐞𝐱𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧:
+     
                             
                                 
+         
+          
+          ![Screenshot (135)](https://github.com/deepthi16032002/Suicidal-Ideation-Detection-Using-Deep-Learning/assets/134869226/f7d32f2f-a696-4ac4-a158-794de6ee354b)
