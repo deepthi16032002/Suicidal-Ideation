@@ -55,5 +55,5 @@
 
                                 
          
-        ![Screenshot (135)](https://github.com/deepthi16032002/Suicidal-Ideation-Detection-Using-Deep-Learning/assets/134869226/29530b88-9bdc-4925-8380-b742bc9a1b6a)
+        ![Screenshot (135)](https://github.com/deepthi16032002/Suicidal-Ideation-Detection-Using-Deep-Learning/assets/134869226/29530b88-9bdc-4925-8380-b742bc9a1b6a).
 
