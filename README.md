@@ -52,7 +52,8 @@
 𝐒𝐮𝐢𝐜𝐢𝐝𝐚𝐥 𝐓𝐞𝐱𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧:
      
                             
+
                                 
          
-          
-          ![Screenshot (135)](https://github.com/deepthi16032002/Suicidal-Ideation-Detection-Using-Deep-Learning/assets/134869226/f7d32f2f-a696-4ac4-a158-794de6ee354b)
+        ![Screenshot (135)](https://github.com/deepthi16032002/Suicidal-Ideation-Detection-Using-Deep-Learning/assets/134869226/29530b88-9bdc-4925-8380-b742bc9a1b6a)
+
