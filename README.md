@@ -45,9 +45,9 @@
      more than 1787 Tweets and comments, and it has been labeled as either indicating suicidal ideation or not.
 
 𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄 𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐌𝐄𝐍𝐓𝐒:
-     ->OPERATING SYSTEM : WINDOWS 7 AND ABOVE
-     ->INTEGRATED DEVELOPMENT ENVIRONMENT: VISUAL STUDIO.
-     ->TOOLS : GOOGLE COLAB,sTREAMLIT
+       OPERATING SYSTEM : WINDOWS 7 AND ABOVE,
+       INTEGRATED DEVELOPMENT ENVIRONMENT: VISUAL STUDIO.
+       TOOLS : GOOGLE COLAB,STREAMLIT
           
 𝐍𝐨𝐧-𝐒𝐮𝐢𝐜𝐢𝐝𝐚𝐥 𝐓𝐞𝐱𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧:
      ![Screenshot (135)](https://github.com/deepthi16032002/Suicidal-Ideation-Detection-Using-Deep-Learning/assets/134869226/6afa2bb9-b954-45a6-bcf1-69f6d374a54e)
