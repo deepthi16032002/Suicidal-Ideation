@@ -50,10 +50,10 @@
      TOOLS : GOOGLE COLAB,sTREAMLIT
           
 𝐒𝐮𝐢𝐜𝐢𝐝𝐚𝐥 𝐓𝐞𝐱𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧:
-     
+     ![Screenshot (135)](https://github.com/deepthi16032002/Suicidal-Ideation-Detection-Using-Deep-Learning/assets/134869226/6afa2bb9-b954-45a6-bcf1-69f6d374a54e)
+
                             
 
                                 
          
-        ![Screenshot (135)](https://github.com/deepthi16032002/Suicidal-Ideation-Detection-Using-Deep-Learning/assets/134869226/29530b88-9bdc-4925-8380-b742bc9a1b6a).
-
+      
