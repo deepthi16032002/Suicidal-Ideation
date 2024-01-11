@@ -10,7 +10,7 @@
   system that can detect suicidal ideation on Twitter tweets using DL models. In this project we trained 
   several Deep learning models such as LSTM(Long Short -Term Memory), GRU(Gated Recurrent unit),andCNN(ConvolutionalNeuralNetwork)
 
- 𝐃𝐄𝐄𝐏𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 𝐌𝐎𝐃𝐄𝐋𝐒 𝐓𝐑𝐀𝐈𝐍𝐄𝐃: LSTM,GRU,CNN
+𝐃𝐄𝐄𝐏𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 𝐌𝐎𝐃𝐄𝐋𝐒 𝐓𝐑𝐀𝐈𝐍𝐄𝐃: LSTM,GRU,CNN
           
 𝐒𝐭𝐫𝐞𝐚𝐦𝐥𝐢𝐭 𝐖𝐞𝐛 𝐀𝐏𝐏:
       Streamlit is an open-source Python library designed to help developers and data 
@@ -18,9 +18,12 @@
       and Pythonic approach, Streamlit has gained popularity for a wide range of 
       applications in data science, machine learning, and data visualization projects.And we
       Deployed our Trained Models using streamlit.
-                              
+      
+𝐒𝐘𝐒𝐓𝐄𝐌 𝐀𝐑𝐂𝐇𝐈𝐓𝐄𝐂𝐓𝐔𝐑𝐄:
+                       ![system Architecture](https://github.com/deepthi16032002/Suicidal-Ideation-Detection-Using-Deep-Learning/assets/134869226/358ffc20-0519-4091-a4c4-2d141677907a)
+
                 
-                       
+
 
 
           
